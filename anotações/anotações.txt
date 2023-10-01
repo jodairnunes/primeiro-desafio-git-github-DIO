@@ -1,0 +1,9 @@
+Desafio DIO 
+Criar um repositório no github;
+Clone para sua máquina;
+ - utilizar comando git clone url-do-repositório
+Criar novo arquivo;
+ - criar uma pasta, nesta pasta um arquivo txt
+Atualizar no repotório do github;
+ - utilizar comando git push -u origin main;
+
